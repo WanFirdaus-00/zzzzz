@@ -1,0 +1,124 @@
+
+
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box; 
+	
+}
+
+body{
+	font-family: cursive;
+	background: url(https://wallpaperaccess.com/full/1175458.jpg) no-repeat;
+	background-size: 100%;
+
+}
+
+nav{
+	background: #1A3143;
+	height: 80px;
+	width: 100%;	
+}
+
+label.logo{
+	color: white;
+	font-size: 25px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-family: cursive;
+}
+
+nav ul{
+
+	float: right;
+	margin-right: 20px;
+}
+
+nav ul li{
+
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+
+nav ul li a{
+
+	color: white;
+	font-size: 12px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+
+a.active,a:hover{
+	background: #23292E;
+	transition: .5s;
+}
+ 	
+
+
+ }
+ section{
+ 	background: url(https://wallpaperaccess.com/full/1175458.jpg) no-repeat;
+ 	background-size: 100%;
+ 	height: calc(100vh - 1px);
+ }
+
+ section h1{
+	font-family: 'Otomanopee One', sans-serif;
+	font-size: 40px;
+	color: purple;
+	text-align: left;
+ }
+
+ 
+
+p{
+	font-family: 'Caveat', cursive;
+	font-size: 30px;
+	color: #FDF9FE;
+	text-align: left;
+}
+
+
+.song p {
+	font-family: 'Caveat', cursive;
+	font-size: 30px;
+	color: #FDF9FE;
+	text-align: center;
+}
+
+.song h1 {
+	font-family: 'Otomanopee One', sans-serif;
+	font-size: 40px;
+	color: purple;
+	text-align: center;
+}
+
+
+
+.co p {
+	font-family: 'Caveat', cursive;
+	font-size: 30px;
+	color: #FDF9FE;
+	text-align: left;
+}
+
+
+.co h1 {
+	font-family: 'Otomanopee One', sans-serif;
+	font-size: 40px;
+	color: purple;
+	text-align: center;
+}
+
+.wrapper{
+
+}
+
+.wrapper h1{
+	margin-bottom: 60px;
+	text-align: center;
+}
